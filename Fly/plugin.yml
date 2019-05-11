@@ -1,0 +1,8 @@
+name: Fly
+version: 0.1
+author: Tempoo50
+main: de.fly.main.Fly
+
+commands:
+   fly:
+      description:
